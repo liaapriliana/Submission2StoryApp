@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Daftar</string>
+    <string name="email_hint">Input email kamu</string>
+    <string name="password_hint">Input password kamu</string>
+    <string name="name">Nama</string>
+    <string name="name_hint">Input nama kamu</string>
+    <string name="success_create_user">Berhasil Registrasi !!</string>
+    <string name="logout">Keluar</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_profile">Profile</string>
+    <string name="error_message">Coba sebentar lagi...</string>
+    <string name="image_error">image_error</string>
+    <string name="ok">Oke</string>
+    <string name="user_image">Gambar Pengguna</string>
+    <string name="setting">Setting</string>
+    <string name="theme">Tema</string>
+    <string name="language">Bahasa</string>
+    <string name="title_stories">Stories</string>
+    <string name="empty_stories">Cerita tidak ditemukan</string>
+    <string name="floating_button">Tambah Cerita</string>
+    <string name="create_story">Tambar Cerita</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="submit">Submit</string>
+    <string name="description">Description</string>
+    <string name="description_hint">Isi deskripsi</string>
+    <string name="permission_denied">You need to allow camera</string>
+    <string name="success_create_story">Berhasil terkirim !</string>
+    <string name="error_validation">Mohon isi semua data dengan benar!</string>
+    <string name="dark_mode">Mode Gelap</string>
+    <string name="light_mode">Mode Terang</string>
+    <string name="detail_story">Detail Cerita</string>
+    <string name="det_user">Username</string>
+    <string name="invalid_email">Email tidak valid</string>
+    <string name="invalid_name">Nama tidak valid</string>
+</resources>

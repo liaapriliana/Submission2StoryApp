@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="daftar">Belum punya akun ?</string>
+    <string name="regAkun">Register Akun</string>
+    <string name="home">Home</string>
+    <string name="welcome">Welcome ,</string>
+    <string name="password_min_length">Password must be longer than 6 characters</string>
+    <string name="maps">MAPS</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="retry">retry</string>
+    <string name="no_location">lokasi tidak tersedia</string>
+</resources>

@@ -1,0 +1,22 @@
+Skenario Testing Story App
+
+1. CreateStoryViewModelTest
+	-Ketika meminta create stories, memastikan Result.Loading dikembalikan pertama kali.
+	- Ketika berhasil akan mengembalikan Result.Success.
+	- Ketika gagal akan memastikan mengembalikan Result.Error.
+2. LoginViewModelTest
+	-Ketika login, memastikan Result.Loading dikembalikan pertama kali.
+	- Ketika berhasil akan mengembalikan Result.Success.
+	- Ketika gagal akan memastikan mengembalikan Result.Error.
+3. MapsViewModelTest
+	- Ketika meminta maps, memastikan Result.Loading dikembalikan pertama kali.
+	- Ketika berhasil akan mengembalikan Result.Success.
+	- Ketika gagal akan memastikan mengembalikan Result.Error.
+4. RegisterViewModelTest
+	-Ketika meminta register, memastikan Result.Loading dikembalikan pertama kali.
+	- Ketika berhasil akan mengembalikan Result.Success.
+	- Ketika gagal akan memastikan mengembalikan Result.Error.
+5. StoryViewModelTest
+	-Ketika meminta stories, memastikan Result.Loading dikembalikan pertama kali.
+	- Ketika berhasil akan mengembalikan Result.Success.
+	- Ketika gagal akan memastikan mengembalikan Result.Error.
